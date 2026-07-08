@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anisha-2404/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
