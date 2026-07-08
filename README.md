@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anisha-2404/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anisha-2404/LeetCode/tree/master/0412-fizz-buzz) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
