@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anisha-2404/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anisha-2404/LeetCode/tree/master/0155-min-stack) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anisha-2404/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
