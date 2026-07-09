@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Anisha-2404/LeetCode/tree/master/0605-can-place-flowers) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anisha-2404/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Anisha-2404/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
