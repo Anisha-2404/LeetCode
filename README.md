@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anisha-2404/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anisha-2404/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
