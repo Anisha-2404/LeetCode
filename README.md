@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anisha-2404/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Anisha-2404/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anisha-2404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anisha-2404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
