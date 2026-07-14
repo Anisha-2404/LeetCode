@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anisha-2404/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anisha-2404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -92,15 +93,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anisha-2404/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anisha-2404/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anisha-2404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anisha-2404/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Anisha-2404/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0503-next-greater-element-ii) |
