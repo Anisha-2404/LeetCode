@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anisha-2404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anisha-2404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anisha-2404/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anisha-2404/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Anisha-2404/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
