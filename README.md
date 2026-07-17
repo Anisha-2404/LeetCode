@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anisha-2404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anisha-2404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anisha-2404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anisha-2404/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anisha-2404/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -141,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anisha-2404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Anisha-2404/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anisha-2404/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anisha-2404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
@@ -194,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
