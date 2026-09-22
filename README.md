@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Anisha-2404/LeetCode/tree/master/0018-4sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anisha-2404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Anisha-2404/LeetCode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anisha-2404/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anisha-2404/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anisha-2404/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
