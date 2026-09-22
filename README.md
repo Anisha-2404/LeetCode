@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Anisha-2404/LeetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Anisha-2404/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Anisha-2404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Anisha-2404/LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/Anisha-2404/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-2404/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Anisha-2404/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Anisha-2404/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anisha-2404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Anisha-2404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Anisha-2404/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anisha-2404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anisha-2404/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
