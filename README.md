@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/Anisha-2404/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Anisha-2404/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Anisha-2404/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anisha-2404/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anisha-2404/LeetCode/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anisha-2404/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
