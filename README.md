@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Anisha-2404/LeetCode/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/Anisha-2404/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anisha-2404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Anisha-2404/LeetCode/tree/master/0134-gas-station) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anisha-2404/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Anisha-2404/LeetCode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Anisha-2404/LeetCode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anisha-2404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anisha-2404/LeetCode/tree/master/0055-jump-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
