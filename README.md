@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anisha-2404/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Anisha-2404/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Anisha-2404/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Anisha-2404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anisha-2404/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Anisha-2404/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anisha-2404/LeetCode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Anisha-2404/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Anisha-2404/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anisha-2404/LeetCode/tree/master/0994-rotting-oranges) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anisha-2404/LeetCode/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anisha-2404/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anisha-2404/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
