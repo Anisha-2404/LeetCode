@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Anisha-2404/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Anisha-2404/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anisha-2404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Anisha-2404/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anisha-2404/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anisha-2404/LeetCode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Anisha-2404/LeetCode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anisha-2404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Anisha-2404/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anisha-2404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
