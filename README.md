@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Anisha-2404/LeetCode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Anisha-2404/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
